@@ -1,7 +1,7 @@
 name: Bootstrap LLVM
 on:
-  schedule:
-    - cron: '21 22 * * 0'
+  # schedule:
+  #   - cron: '21 22 * * 0'
   workflow_dispatch:
 
 jobs:
